@@ -1,6 +1,6 @@
 # CesiumVue
-Cesium+Vue(Vue-Router+Vuex+Vue-axios)基础框架  
-下载后运行
+## Cesium+Vue(Vue-Router+Vuex+Vue-axios)基础框架  
+## 下载后运行
 安装
 ```
 npm install  
